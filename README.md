@@ -11,7 +11,8 @@ This project demonstrates the design and deployment of a scalable multi-branch e
 * **Infrastructure:** Multi-router and multi-switch topology connecting distinct branch locations
 
 ##  Network Topology
-<img width="1490" height="396" alt="image" src="https://github.com/user-attachments/assets/dde2e486-8c65-4ec3-9f16-4720a7b4c654" />
+<img width="1490" height="396" alt="image" src="https://github.com/user-attachments/assets/6d766d5d-3031-403f-8bbb-a276c997ee40" />
+
 
 topology.png
 
